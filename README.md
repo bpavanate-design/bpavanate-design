@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá! Eu sou a Bianca
 
-<!--
-**bpavanate-design/bpavanate-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de tecnologia e desenvolvimento web
+🎓 Estudo no CEDUP
+📚 Atualmente no 2º ano do Ensino Médio
 
-Here are some ideas to get you started:
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sobre mim
+
+Estou aprendendo sobre programação, desenvolvimento web e como os computadores e sistemas funcionam.
+
+💻 O que estou estudando
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🧩 Lógica de programação
+- 💻 Arquitetura de computadores
+- 🌎 Desenvolvimento Web
+
+🚀 Tecnologias
+
+<p>
+
+✨ Obrigada por visitar meu perfil!
